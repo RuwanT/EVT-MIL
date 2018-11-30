@@ -23,7 +23,7 @@ For each data-set <train, validation, test>:
 
 ### Training the network and obtaining validation results
 - Adjust hyper parameters and paths defined in the file `hyperparameters.py`
-- run `train_3d_evt_mil_cv.py`
+- Run `train_3d_evt_mil_cv.py`
 
 The AUC values for validation data, at each epoch, will be writen to a .csv file in ./outputs folder 
 
