@@ -15,10 +15,10 @@ The packages needed are listed in the `requirements.txt` (not all packages in fi
 
 
 ### Prepare data
-For each data-set <train, validation, test>:
+For each data-set:
 
 - Convert each instance into a numpy array with dimensions `[height, width, channels]` and save in a pre specified folder.
-- Create a csv file containing the following columns: `['instance_file_name', 'bag_name', 'bag_label', <additional information,>, 'Cross-validation_split']` for each instance.
+- Create a csv file containing the following columns: `['instance_file_name', 'bag_name', 'bag_label', <additional information,>, 'Cross-validation_split']` for each instance. instance_file_name can be bag_name + a unique number,  Cross-validation_split should be a number starting from zero.
 
 
 ### Training the network and obtaining validation results
