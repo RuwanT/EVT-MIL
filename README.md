@@ -31,7 +31,8 @@ The AUC values for validation data, at each epoch, will be writen to a .csv file
 ## Publication
 
 If you find this work useful in your research, please consider citing:
-	@ARTICLE{rtennakoo_2019,
+
+	@ARTICLE{8805413,
 	author={R. {Tennakoon} and G. {Bortsova} and S. {Ørting} and A. K. {Gostar} and M. M. W. {Wille} and Z. {Saghir} and R. {Hoseinnezhad} and M. {de Bruijne} and A. {Bab-Hadiashar}},
 	journal={IEEE Transactions on Medical Imaging},
 	title={Classification of Volumetric Images Using Multi-Instance Learning and Extreme Value Theorem},
@@ -40,5 +41,4 @@ If you find this work useful in your research, please consider citing:
 	number={},
 	pages={1-1},
 	doi={10.1109/TMI.2019.2936244},}
-
     
