@@ -30,7 +30,7 @@ The AUC values for validation data, at each epoch, will be writen to a .csv file
 
 ## Publication
 
-If you find this work useful in your research, please consider citing:
+If you find this work useful in your research, please consider [citing](https://ieeexplore.ieee.org/abstract/document/8805413):
 
 	@ARTICLE{8805413,
 	author={R. {Tennakoon} and G. {Bortsova} and S. {Ørting} and A. K. {Gostar} and M. M. W. {Wille} and Z. {Saghir} and R. {Hoseinnezhad} and M. {de Bruijne} and A. {Bab-Hadiashar}},
