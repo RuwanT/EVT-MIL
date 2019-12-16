@@ -54,7 +54,7 @@ six==1.10.0
 statsmodels==0.8.0
 subprocess32==3.2.7
 tabulate==0.8.2
-tensorflow-gpu==1.1.0
+tensorflow-gpu==1.15.0
 tensorpack==0.8.6
 termcolor==1.1.0
 Theano==0.9.0
